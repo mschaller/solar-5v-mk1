@@ -1,0 +1,11 @@
+#ifndef PRIVATE_H
+#define PRIVATE_H
+
+#define WLAN_SSID "mySSID"
+#define WLAN_PASS "myPassword"
+#define WLAN_OTA_PASS "otaPassword"
+
+#endif
+
+
+
